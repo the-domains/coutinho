@@ -1,7 +1,7 @@
 name: coutinho
 favicon: null
-layout_spectrum: 0.8426842561457306
-typography_spectrum: 0.3930167811922729
+layout_spectrum: 0.4915
+typography_spectrum: 0.78508
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6221081351395696
-  lightness: 0.7580433271359652
+  brandStrength: 0.4375
+  lightness: 0.5
   saturation: 0.863622188102454
-  rhythmicContrast: 0.08375606476329267
+  rhythmicContrast: 0
 purpose: []

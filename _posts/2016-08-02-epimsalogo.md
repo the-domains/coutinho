@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: epimsalogo
-datePublished: '2016-08-02T23:00:40.795Z'
-dateModified: '2016-08-02T22:59:06.560Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-02T23:25:38.719Z'
+dateModified: '2016-08-02T23:25:38.104Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-02-epimsalogo.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: epimsalogo/index.html
 _type: Article
 

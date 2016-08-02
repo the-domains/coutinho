@@ -4,7 +4,7 @@
         <description><![CDATA[coutinho]]></description>
         <link>https://thegrid.ai/coutinho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 23:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 23:36:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coutinho/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#00001]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/coutinho/4725ab91-f57f-4d61-ac20-4ae605b341fe/index.html</link>
             <guid isPermaLink="false">4725ab91-f57f-4d61-ac20-4ae605b341fe</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac91a39-9215-482f-80f3-ef5db2c7e69e.png">]]></description>
+            <link>https://thegrid.ai/coutinho/5107eecb-fc82-4cac-84da-2b0d051a2107/index.html</link>
+            <guid isPermaLink="false">5107eecb-fc82-4cac-84da-2b0d051a2107</guid>
+            <pubDate>Tue, 02 Aug 2016 23:35:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coutinho/tumbala-movimento-tubofonico/index.html</link>
             <guid isPermaLink="false">1e14a14c-13a7-4c5c-a007-c19711c47221</guid>
             <pubDate>Tue, 02 Aug 2016 23:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9700218-6640-4da5-86e9-1488483b063b.png">]]></description>
-            <link>https://thegrid.ai/coutinho/epimsalogo/index.html</link>
-            <guid isPermaLink="false">042db349-ef31-436b-b360-fd76a704c897</guid>
-            <pubDate>Tue, 02 Aug 2016 23:25:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Tumbala: movimento tubofónico'
-datePublished: '2016-08-02T22:46:06.738Z'
-dateModified: '2016-08-02T22:45:42.829Z'
+datePublished: '2016-08-02T23:25:47.925Z'
+dateModified: '2016-08-02T23:25:47.407Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-02-tumbala-movimento-tubofonico.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: tumbala-movimento-tubofonico/index.html
 _type: Article
 

@@ -4,7 +4,7 @@
         <description><![CDATA[coutinho]]></description>
         <link>https://thegrid.ai/coutinho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 23:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 23:54:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coutinho/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#00001]]></title>
@@ -15,10 +15,24 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96efd322-d0e9-4284-be86-46abeb212348.png">]]></description>
+            <link>https://thegrid.ai/coutinho/b98ad699-04f1-478e-b7cd-9f715f628e45/index.html</link>
+            <guid isPermaLink="false">b98ad699-04f1-478e-b7cd-9f715f628e45</guid>
+            <pubDate>Tue, 02 Aug 2016 23:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe690f4a-b650-437f-b157-8f0080f2474e.png">]]></description>
             <link>https://thegrid.ai/coutinho/f9cb538d-e1cf-4efa-8ddd-a34deeb7ba0a/index.html</link>
             <guid isPermaLink="false">f9cb538d-e1cf-4efa-8ddd-a34deeb7ba0a</guid>
-            <pubDate>Tue, 02 Aug 2016 23:52:15 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2016 23:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd9db1a-ef38-48c5-a96a-f9ff1cb20ac4.png">]]></description>
+            <link>https://thegrid.ai/coutinho/a1695411-8259-4185-8584-84ee82ff5351/index.html</link>
+            <guid isPermaLink="false">a1695411-8259-4185-8584-84ee82ff5351</guid>
+            <pubDate>Tue, 02 Aug 2016 23:52:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/coutinho/deskopy-02/index.html</link>
             <guid isPermaLink="false">d8cdf291-3fce-40c3-bb12-72de572ce176</guid>
             <pubDate>Tue, 02 Aug 2016 23:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd9db1a-ef38-48c5-a96a-f9ff1cb20ac4.png">]]></description>
-            <link>https://thegrid.ai/coutinho/a1695411-8259-4185-8584-84ee82ff5351/index.html</link>
-            <guid isPermaLink="false">a1695411-8259-4185-8584-84ee82ff5351</guid>
-            <pubDate>Tue, 02 Aug 2016 23:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coutinho/5144d7bd-f2f7-4973-8c52-9a5275402758/index.html</link>
             <guid isPermaLink="false">5144d7bd-f2f7-4973-8c52-9a5275402758</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89bce2dd-88ad-4dbd-9512-81b7fb1a9b64.png">]]></description>
-            <link>https://thegrid.ai/coutinho/arquetipo-0011/index.html</link>
-            <guid isPermaLink="false">b64b432b-b041-4d41-987e-497d72e395bf</guid>
-            <pubDate>Tue, 02 Aug 2016 23:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

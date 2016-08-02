@@ -4,7 +4,7 @@
         <description><![CDATA[coutinho]]></description>
         <link>https://thegrid.ai/coutinho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 23:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 23:42:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coutinho/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#00001]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/coutinho/00001/index.html</link>
             <guid isPermaLink="false">b4a0a833-2f0e-4294-b071-a904ae2f79fb</guid>
             <pubDate>Wed, 27 Jan 2016 17:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea9938f0-bb02-45fd-8f0e-2c4587c3ae23.jpg">]]></description>
+            <link>https://thegrid.ai/coutinho/5fc73bb3-00c8-4a85-b273-22c4fb8e1a57/index.html</link>
+            <guid isPermaLink="false">5fc73bb3-00c8-4a85-b273-22c4fb8e1a57</guid>
+            <pubDate>Tue, 02 Aug 2016 23:42:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coutinho/mr-jorg/index.html</link>
             <guid isPermaLink="false">4c1e6f8c-f14d-4d8c-a81f-59ff6365eaff</guid>
             <pubDate>Tue, 02 Aug 2016 23:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3958a5ef-7c87-4eaf-9ec7-8825e571f2bc.jpg">]]></description>
-            <link>https://thegrid.ai/coutinho/tumbala-movimento-tubofonico/index.html</link>
-            <guid isPermaLink="false">1e14a14c-13a7-4c5c-a007-c19711c47221</guid>
-            <pubDate>Tue, 02 Aug 2016 23:25:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

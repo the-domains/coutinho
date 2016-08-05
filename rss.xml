@@ -4,8 +4,15 @@
         <description><![CDATA[coutinho]]></description>
         <link>https://thegrid.ai/coutinho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 09:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 09:02:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coutinho/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mr Jorg]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/926b2fd0-2fa0-45eb-aa27-f807245b7d0c.jpg">]]></description>
+            <link>https://thegrid.ai/coutinho/mr-jorg/index.html</link>
+            <guid isPermaLink="false">4c1e6f8c-f14d-4d8c-a81f-59ff6365eaff</guid>
+            <pubDate>Fri, 05 Aug 2016 09:02:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#00001]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f02e53db-f86a-4567-8796-bad3119751e9.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coutinho/deskopy-02/index.html</link>
             <guid isPermaLink="false">d8cdf291-3fce-40c3-bb12-72de572ce176</guid>
             <pubDate>Tue, 02 Aug 2016 23:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd13b8a6-9b7d-42b0-b43e-d5dfe79e55ea.png">]]></description>
-            <link>https://thegrid.ai/coutinho/f652d34d-9ef0-44ec-9eb3-858045e381ee/index.html</link>
-            <guid isPermaLink="false">f652d34d-9ef0-44ec-9eb3-858045e381ee</guid>
-            <pubDate>Tue, 02 Aug 2016 23:50:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
